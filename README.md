@@ -9,8 +9,8 @@
 ## Usage
 
 ## Roadmap
-- [] Starter Account Service
-- [] Basic & Pro Account Service
+- [ ] Starter Account Service
+- [ ] Basic & Pro Account Service
 
 ## License
 
