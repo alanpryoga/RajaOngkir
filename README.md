@@ -2,9 +2,10 @@
 
 ## Getting Started
 ### Prerequisites
-- .NET Core 3.1
+- .NET Core 3.1 or higher
 
 ### Installation
+Install using NuGet Package Manager:
 
 ## Usage
 

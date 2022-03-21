@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{51F647EF-156
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlanPryoga.RajaOngkir", "src\AlanPryoga.RajaOngkir\AlanPryoga.RajaOngkir.csproj", "{469D1158-0B4D-4069-9C9B-51306C79E213}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{421078A3-EAE5-411A-87AE-943E546413F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlanPryoga.RajaOngkir.UnitTests", "tests\AlanPryoga.RajaOngkir.UnitTests\AlanPryoga.RajaOngkir.UnitTests.csproj", "{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,8 +36,21 @@ Global
 		{469D1158-0B4D-4069-9C9B-51306C79E213}.Release|x64.Build.0 = Release|Any CPU
 		{469D1158-0B4D-4069-9C9B-51306C79E213}.Release|x86.ActiveCfg = Release|Any CPU
 		{469D1158-0B4D-4069-9C9B-51306C79E213}.Release|x86.Build.0 = Release|Any CPU
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}.Debug|x64.Build.0 = Debug|Any CPU
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}.Debug|x86.Build.0 = Debug|Any CPU
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}.Release|x64.ActiveCfg = Release|Any CPU
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}.Release|x64.Build.0 = Release|Any CPU
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}.Release|x86.ActiveCfg = Release|Any CPU
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{469D1158-0B4D-4069-9C9B-51306C79E213} = {51F647EF-156D-4B58-B544-5B8563A34C2F}
+		{D359EEB5-5A32-4D3D-8A91-971BF24B7BC3} = {421078A3-EAE5-411A-87AE-943E546413F7}
 	EndGlobalSection
 EndGlobal
